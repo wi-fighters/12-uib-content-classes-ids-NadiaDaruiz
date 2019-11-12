@@ -1,0 +1,20 @@
+#back-color {
+    background-color: bisque;
+}
+
+#title h1 {
+    background-color: rgba(99, 00, 100, 0.5);
+
+}
+
+#small-heading {
+    background-color: rgba(255,0,255,0.3);
+}
+
+.list-item { 
+    color: rgb(212, 79, 26);
+}
+
+.heading {
+    color: rgb(212, 26, 66);
+}
